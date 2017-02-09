@@ -140,3 +140,8 @@ p, span {
 .contact-link p {
 	padding-top: 5px;
 }
+
+span.label {
+	font-family: 'Roboto', sans-serif;
+	font-size: .9em;
+}
